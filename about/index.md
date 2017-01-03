@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blogging Like a Hacker
+title: About page
 ---
 
 ## Welcome to GitHub Pages About page
