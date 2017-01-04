@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "     CUDA Rasterizer"
+subtitle: ""
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "images/cesium_truck.gif"
