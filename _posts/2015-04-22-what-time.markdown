@@ -1,6 +1,6 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "Vulkan Boids Simulation"
+subtitle: ""
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "images/boids.gif"

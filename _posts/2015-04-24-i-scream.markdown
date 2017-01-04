@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "CPU Path tracer"
+subtitle: "C++, OpenGL"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "images/cornell1.jpg"
