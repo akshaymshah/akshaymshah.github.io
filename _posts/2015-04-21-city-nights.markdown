@@ -3,7 +3,7 @@ title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "images/test_render.PNG"
+image: "images/test_render1.jpg"
 date:   2015-04-21 12:12:12
 ---
 
