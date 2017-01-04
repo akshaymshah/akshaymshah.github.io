@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
+title:  "GPU Bidirectional Path tracer"
+subtitle: "with Optix"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+image: "images/test_render1.jpg"
+date:   2015-04-21 12:12:12
 ---
 
 ### Dolor sit amet?

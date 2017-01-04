@@ -1,10 +1,10 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "GPU Bidirectional Photon mapper"
+subtitle: "with Optix"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+image: "images/bpm1.jpg"
+date:   2015-04-20 12:12:12
 ---
 
 ### Dolor sit amet?
