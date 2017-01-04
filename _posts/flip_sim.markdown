@@ -4,7 +4,7 @@ subtitle: "C++"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "images/flip_sim.gif"
-date:   2015-04-25 12:12:12
+date:   2015-04-25 12:12:13
 ---
 
 ### Dolor sit amet?
