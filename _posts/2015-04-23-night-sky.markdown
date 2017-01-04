@@ -1,5 +1,5 @@
 ---
-title:  "CUDA Rasterizer"
+title:  "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CUDA Rasterizer"
 subtitle: ""
 author: "Wferr"
 avatar: "img/authors/wferr.png"
