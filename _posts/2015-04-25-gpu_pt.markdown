@@ -1,10 +1,10 @@
 ---
-title:  "CPU Path tracer"
-subtitle: "C++, OpenGL"
+title:  "GPU Path Tracer"
+subtitle: "with CUDA"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "images/cornell1.jpg"
-date:   2015-04-24 12:12:12
+date:   2015-04-25 12:12:12
 ---
 
 ### Dolor sit amet?

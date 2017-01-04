@@ -1,10 +1,10 @@
 ---
-title:  "CUDA Boids Simulation"
-subtitle: ""
+title:  "CPU Path tracer"
+subtitle: "C++, OpenGL"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "images/cpu_PT.gif"
-date:   2015-04-25 12:12:12
+date:   2015-04-21 12:12:12
 ---
 
 ### Dolor sit amet?
