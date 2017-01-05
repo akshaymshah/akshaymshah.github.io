@@ -3,7 +3,7 @@ title:  "GPU Path Tracer"
 subtitle: "with CUDA"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "images/cornell1.jpg"
+image: "images/cpu_pt.PNG"
 date:   2015-04-25 12:12:12
 ---
 
